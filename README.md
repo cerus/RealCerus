@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there!
 
-<!--
-**RealCerus/RealCerus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maximilian and I mainly work with Java. I'm currently getting into Rust because the JVM is starting to get on my nerves. I'm also very interested in computer science.
 
-Here are some ideas to get you started:
+I'm currently working on a few small projects. My main longterm project at the moment is [Spedcord](https://github.com/Spedcord).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### How to contact me
+
+You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:contact@cerus-dev.de) to my email address `contact@cerus-dev.de`.
+
+
+
+By the way: I'm currently looking for work! Please get in touch with me if you'd like to hire me.
