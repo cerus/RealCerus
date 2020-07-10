@@ -1,3 +1,5 @@
+![](https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+
 ## Hello there!
 
 My name is Maximilian and I mainly work with Java. I'm currently getting into Rust because the JVM is starting to get on my nerves. I'm also very interested in computer science.
