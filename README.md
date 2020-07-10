@@ -1,4 +1,4 @@
-![](rick.gif)
+![Rick](rick.gif)
 
 ## Hello there!
 
