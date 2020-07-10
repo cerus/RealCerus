@@ -1,4 +1,4 @@
-![Rick](rick.gif)
+![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)
 
 ## Hello there!
 
