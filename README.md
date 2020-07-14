@@ -1,4 +1,4 @@
-[![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!-- [![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
 
 ## Hello there!
 
