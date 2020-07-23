@@ -13,7 +13,7 @@ I'm currently working on a few small projects. My main longterm project at the m
 You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:contact@cerus-dev.de) to my email address `contact@cerus-dev.de`.
 
 
-
+<br>
 By the way: I'm currently looking for work! Please get in touch with me if you'd like to hire me.
 
 ----
