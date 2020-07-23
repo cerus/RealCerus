@@ -15,3 +15,10 @@ You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:con
 
 
 By the way: I'm currently looking for work! Please get in touch with me if you'd like to hire me.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RealCerus&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealCerus&theme=tokyonight" />
+</a>
