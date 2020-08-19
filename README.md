@@ -21,7 +21,7 @@ By the way: I'm currently looking for work! Please get in touch with me if you'd
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealCerus&theme=tokyonight&hide_langs_below=1&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealCerus&theme=tokyonight&layout=compact&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealCerus&show_icons=true&theme=tokyonight" />
