@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/RealCerus/git-badges)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/RealCerus)](https://badges.pufler.dev)
 <!-- [![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
 
 ## Hello there!
