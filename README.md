@@ -7,6 +7,7 @@ My name is Maximilian and I mainly work with Java. I'm currently getting into Ru
 
 I'm currently working on a few small projects. My main longterm project at the moment is [Spedcord](https://github.com/Spedcord).
 
+[Click here](https://stackoverflow.com/story/maximilan-dorn) if you'd like to see my developer story.
 
 
 ### How to contact me
