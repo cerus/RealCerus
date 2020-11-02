@@ -1,4 +1,4 @@
-[![Years Badge](https://badges.pufler.dev/years/RealCerus)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/cerus)](https://badges.pufler.dev)
 
 [![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
