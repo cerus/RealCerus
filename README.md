@@ -1,11 +1,24 @@
 [![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Hello there!
-My name is Maximilian and I mainly work with Java. I'm currently getting into Rust because the JVM is starting to get on my nerves. I'm also very interested in computer science.
+My name is Maximilian and I mainly work with Java. I'm currently working at @pypeware as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
 
-I'm currently working on a few small projects. My main longterm project at the moment is [Spedcord](https://github.com/Spedcord).
+The game Minecraft originally got me into programming in 2017. My programming skills have evolved beyond Minecraft plugins since then and I'm now working on a variety of stuff.
 
-[Click here](https://stackoverflow.com/story/maximilian-dorn) if you'd like to see my developer story.
+[Click here](https://stackoverflow.com/story/maximilian-dorn) if you'd like to see my StackOverflow developer story.
+
+### Languages that I've worked with
+- Java
+- C#
+- Haxe
+- JS
+- Rust
+- C++
+
+### Tools that I (have to) use
+- Git
+- Maven
+- Docker (I'm not really experienced with Docker but I know a little bit thanks to @lus)
 
 
 ### How to contact me
