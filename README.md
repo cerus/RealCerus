@@ -1,7 +1,7 @@
 [![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Hello there!
-My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
+My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](https://github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
 
 The game Minecraft originally got me into programming in 2017. My programming skills have evolved beyond Minecraft plugins since then and I'm now working on a variety of stuff.
 
@@ -18,7 +18,7 @@ The game Minecraft originally got me into programming in 2017. My programming sk
 ### Tools that I (have to) use
 - Git
 - Maven
-- Docker (I'm not really experienced with Docker but I know a little bit thanks to [@lus](github.com/lus))
+- Docker (I'm not really experienced with Docker but I know a little bit thanks to [@lus](https://github.com/lus))
 
 
 ### How to contact me
