@@ -1,4 +1,4 @@
-[![Rick](https://github.com/RealCerus/RealCerus/blob/master/rick.gif?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Rick](http://hit.cerus-dev.de/rick)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Hello there!
 My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](https://github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
