@@ -1,4 +1,4 @@
-![Cat](https://github.com/RealCerus/RealCerus/blob/master/cat.gif?raw=true)
+![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying edina.gif?raw=true)
 
 ## Hello there!
 My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](https://github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
