@@ -7,7 +7,9 @@ The game Minecraft originally got me into programming in 2017. My programming sk
 
 [Click here](https://stackoverflow.com/story/maximilian-dorn) if you'd like to see my StackOverflow developer story.
 
-### Languages that I've worked with
+As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina of Coboldcastle (\*2008-†2020). One of my biggest dreams is to start the Coboldcastle foundation to research liver cancer in animals.
+
+### Programming languages that I've worked with
 - Java
 - C#
 - Haxe
@@ -15,11 +17,22 @@ The game Minecraft originally got me into programming in 2017. My programming sk
 - Rust
 - C++
 
-### Tools that I (have to) use
+### Tools that I use
 - Git
 - Maven
-- Docker (I'm not really experienced with Docker but I know a little bit thanks to [@lus](https://github.com/lus))
+- Docker
+- IntelliJ IDEA
 
+### Other cool software that I use
+- Arch Linux (I use Arch btw)
+- KDE Plasma
+- Zsh (with ohmyzsh and powerlevel10k)
+
+### Favorite games
+- Minecraft
+- Elite: Dangerous
+- Euro Truck Simulator 2 (TruckersMP)
+- Scrap Mechanic
 
 ### How to contact me
 You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.dorn.2003@web.de) to my email address `m.dorn.2003@web.de`.
