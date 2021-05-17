@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/cerus/cerus/blob/master/rick.gif">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum est et nulla tristique, id imperdiet nunc finibus. Ut a leo at metus sodales faucibus in vitae metus. Phasellus ac elit mi. Nullam id mauris at lorem dictum bibendum. Praesent nisl erat, iaculis non faucibus sit amet, pharetra eget lacus. Sed libero nunc, feugiat vel eros vel, hendrerit ultricies elit. Vivamus convallis purus eget suscipit finibus. Nulla ut auctor augue, vitae ultrices odio.
 
