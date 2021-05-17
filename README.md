@@ -1,7 +1,7 @@
 <!--![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true)-->
 
 ## Hello there!
-<img align="right" src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="300" height="300" />
+<img align="right" src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="302" height="190" />
 
 My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](https://github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
 
