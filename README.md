@@ -1,4 +1,4 @@
-![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true)
+<!--![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true)-->
 
 ## Hello there!
 My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](https://github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
@@ -7,32 +7,18 @@ The game Minecraft originally got me into programming in 2017. My programming sk
 
 [Click here](https://stackoverflow.com/story/maximilian-dorn) if you'd like to see my StackOverflow developer story.
 
-As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina (\*2008-†2020).
+As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina (\*2008-†2020). Cats are my favourite animal and I couldn't live without one. I currently have one cat, a 13 year old Maine Coon named Giovanni.
 
-### Programming languages that I've worked with
-- Java
-- C#
-- Haxe
-- JS
-- Rust
-- C++
+### My expertise
+I started learning Java in 2017 and I would say that I have gathered a bunch of experience with the language and several libraries that were written in it. I'm always using the buildtool Maven with my Java projects. I have also played around with C#, although I don't have nearly as much experience with it as with Java. I would be able to write simple programs in it though. Besides Java and C# I have also tried out Haxe, C++, Rust, JavaScript and Go.
 
-### Tools that I use
-- Git
-- Maven
-- Docker
-- IntelliJ IDEA
+I know my way around Git but I'm definitely not a Git pro.
 
-### Other cool software that I use
-- Arch Linux (I use Arch btw)
-- KDE Plasma
-- Zsh (with ohmyzsh and powerlevel10k)
+### Favourite software
+I have recently discovered my love for Linux - I'm currently running Arch with KDE Plasma (The Dolphin file manager is really awesome). I switched from Windows to Linux and never looked back. I also really like Jetbrains IDEs. Some say they are bloated, but I quite like the wide array of tools they provide.
 
-### Favorite games
-- Minecraft
-- Elite: Dangerous
-- Euro Truck Simulator 2 (TruckersMP)
-- Scrap Mechanic
+### Favourite games
+My all time favourite is Minecraft, but I also enjoy trucking and realistic space games, so Euro Truck Simulator 2 and Elite: Dangerous definitely come right after Minecraft. Sometimes I also like to play Scrap Mechanic and CS:GO.
 
 ### How to contact me
 You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.dorn.2003@web.de) to my email address `m.dorn.2003@web.de`.
