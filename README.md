@@ -1,6 +1,8 @@
 <!--![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true)-->
 
 ## Hello there!
+<img align="right" src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="300" height="300" />
+
 My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](https://github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 also my job.
 
 The game Minecraft originally got me into programming in 2017. My programming skills have evolved beyond Minecraft plugins since then and I'm now working on a variety of stuff.
