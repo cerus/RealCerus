@@ -11,8 +11,10 @@ The game Minecraft originally got me into programming in 2017. My programming sk
 
 As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina (\*2008-†2020). Cats are my favourite animal and I couldn't live without one. I currently have one cat, a 13 year old Maine Coon named Giovanni.
 
+---
+
 ### My expertise and what I still need to learn
-TL;DR:\
+**TL;DR:**\
 Biggest strength - A lot of experience with everything around Java\
 Biggest weakness - Lack of experience with writing efficient and scalable software
 
@@ -22,16 +24,22 @@ I know my way around Git but I'm definitely not a Git pro.
 
 My biggest problem is my lack of practical experience. Sure, I have worked with Java etc for 4 years now, but I have never had to write software that had to be as efficient possible and that had to be scalable. My software works fine for a couple users at a time, but once there are several hundred concurrent users everything starts to crumble. Thankfully I'm currently working on that by gaining actual experience in my job.
 
+---
+
 ### Favourite software
 I have recently discovered my love for Linux - I'm currently running Arch with KDE Plasma (The Dolphin file manager is really awesome). I switched from Windows to Linux and never looked back. I also really like Jetbrains IDEs. Some say they are bloated, but I quite like the wide array of tools they provide.
+
+---
 
 ### Favourite games
 My all time favourite is Minecraft, but I also enjoy trucking and realistic space games, so Euro Truck Simulator 2 and Elite: Dangerous definitely come right after Minecraft. Sometimes I also like to play Scrap Mechanic and CS:GO.
 
+---
+
 ### How to contact me
 You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.dorn.2003@web.de) to my email address `m.dorn.2003@web.de`.
 
-----
+---
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
