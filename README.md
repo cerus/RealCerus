@@ -50,4 +50,4 @@ You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.d
   </a>
 </p>
 
-![Hit counter](https://track.cerus.dev/track/github?)
+<img src="https://track.cerus.dev/track/github"></img>
