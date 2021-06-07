@@ -50,4 +50,5 @@ You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.d
   </a>
 </p>
 
-<img src="https://track.cerus.dev/track/github"></img>
+<!-- Had to set weird query params because of GitHub Camo -->
+<img src="https://track.cerus.dev/track/github.png?abc=123" alt="Hit counter"/>
