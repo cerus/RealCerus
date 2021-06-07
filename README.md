@@ -46,7 +46,7 @@ You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.d
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerus&theme=nord&layout=compact&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cerus&show_icons=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cerus&show_icons=true&include_all_commits=true&count_private=true&theme=nord" />
   </a>
 </p>
 
