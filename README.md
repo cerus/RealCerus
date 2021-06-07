@@ -49,3 +49,5 @@ You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.d
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cerus&show_icons=true&theme=nord" />
   </a>
 </p>
+
+![Hit counter](https://track.cerus.dev/track/github)
