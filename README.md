@@ -13,16 +13,12 @@ As you may have noticed I'm madly in love with cats. My profile picture shows my
 
 ---
 
-### My expertise and what I still need to learn
-**TL;DR:**\
-Biggest strength - A lot of experience with everything around Java\
-Biggest weakness - Lack of experience with writing efficient and scalable software
-
+### My expertise
 I started learning Java in 2017 and I would say that I have gathered a bunch of experience with the language and several libraries that were written in it. I'm always using the buildtool Maven with my Java projects. I have also played around with C#, although I don't have nearly as much experience with it as with Java. I would be able to write simple programs in it though. Besides Java and C# I have also tried out Haxe, C++, Rust, JavaScript and Go.\
-I have about 2-3 years of experience with SQL and around 1 year of experience with MongoDB. I'm not great at writing efficient queries though.\
+I have about 2-3 years of experience with SQL and around 1 year of experience with MongoDB.\
 I know my way around Git but I'm definitely not a Git pro.
 
-My biggest problem is my lack of practical experience. Sure, I have worked with Java etc for 4 years now, but I have never had to write software that had to be as efficient possible and that had to be scalable. My software works fine for a couple users at a time, but once there are several hundred concurrent users everything starts to crumble. Thankfully I'm currently working on that by gaining actual experience in my job.
+My biggest problem is my lack of practical experience I think.
 
 ---
 
