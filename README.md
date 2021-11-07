@@ -1,4 +1,5 @@
 <!--![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true)-->
+![OS](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=00affe) ![Shell](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=linux&logoColor=white&color=00affe) ![OS](https://img.shields.io/badge/Desktop-KDE-informational?style=flat&logo=kde&logoColor=white&color=00affe) ![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=00affe) ![Java](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=00affe) ![Game](https://img.shields.io/badge/Game-Minecraft-informational?style=flat&logo=mojangstudios&logoColor=white&color=00affe) ![Browser](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=00affe) ![IOTA](https://img.shields.io/badge/Crypto-IOTA-informational?style=flat&logo=iota&logoColor=white&color=00affe)
 
 ## Hello there!
 <img align="right" src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="302" height="190" />
