@@ -9,7 +9,7 @@ The game Minecraft originally got me into programming in 2017. My programming sk
 
 [Click here](https://stackoverflow.com/story/maximilian-dorn) if you'd like to see my StackOverflow developer story.
 
-As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina (\*2008-†2020). Cats are my favourite animal and I couldn't live without one. I currently have one cat, a 13 year old Maine Coon named Giovanni.
+As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina (\*2008-†2020). Cats are my favourite animal and I couldn't live without one. I currently have one cat, a ~15 year old Maine Coon named Giovanni.
 
 ---
 
