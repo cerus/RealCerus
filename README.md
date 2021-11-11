@@ -38,6 +38,16 @@ You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.d
 
 ---
 
+### Favourite quotes
+
+> Programming is an art form that fights back.\
+> \- Unknown
+
+> I saw 'cout' being shifted "Hello world" times to the left and stopped right there.\
+> \- Steve Goned
+
+---
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerus&theme=nord&layout=compact&show_icons=true" />
