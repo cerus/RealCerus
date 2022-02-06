@@ -8,7 +8,7 @@ My name is Maximilian and I mainly work with Java. I'm currently working at [Pyp
 
 The game Minecraft originally got me into programming in 2017. My programming skills have evolved beyond Minecraft plugins since then and I'm now working on a variety of stuff.
 
-[Click here](https://stackoverflow.com/users/story/10821925) if you'd like to see my CV.
+[Click here](https://cerus.dev/cv/) if you'd like to see my CV.
 
 As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina (\*2008-†2020). Cats are my favourite animal and I couldn't live without one. I currently have one cat, a ~15 year old Maine Coon named Giovanni.
 
