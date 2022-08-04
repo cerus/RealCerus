@@ -1,50 +1,36 @@
 <!--![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true)-->
-![OS](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=00affe) ![Shell](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=linux&logoColor=white&color=00affe) ![OS](https://img.shields.io/badge/Desktop-KDE-informational?style=flat&logo=kde&logoColor=white&color=00affe) ![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=00affe) ![Java](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=00affe) ![Game](https://img.shields.io/badge/Game-Minecraft-informational?style=flat&logo=mojangstudios&logoColor=white&color=00affe) ![Browser](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=00affe) ![IOTA](https://img.shields.io/badge/Crypto-IOTA-informational?style=flat&logo=iota&logoColor=white&color=00affe)
+[![YouTube](https://img.shields.io/badge/YouTube-Cerusss-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/Cerusss) [![YouTube](https://img.shields.io/badge/Twitter-0cerus-informational?style=flat&logo=twitter&logoColor=white&color=019ff7)](https://twitter.com/0cerus) ![OS](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=777777) ![Shell](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=linux&logoColor=white&color=777777) ![OS](https://img.shields.io/badge/Desktop-KDE-informational?style=flat&logo=kde&logoColor=white&color=777777) ![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=777777) ![Java](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=777777) ![Game](https://img.shields.io/badge/Game-Minecraft-informational?style=flat&logo=mojangstudios&logoColor=white&color=777777) ![Browser](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=777777)
 
 ## Hello there!
-<img align="right" src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="302" height="190" />
+<img align="right" src="https://github.com/cerus/cerus/blob/master/flying%20edina.gif?raw=true" width="302" height="190" />
 
-My name is Maximilian and I mainly work with Java. I'm currently working at [Pypeware](https://github.com/pypeware) as a software developer. Programming is a huge hobby of mine and since November 2020 it's also my job.
+My name is Maximilian and I'm a software developer from Germany. I mainly work with Java in combination with Minecraft.
 
-The game Minecraft originally got me into programming in 2017. My programming skills have evolved beyond Minecraft plugins since then and I'm now working on a variety of stuff.
+I currently work for the german Minecraft server HorstBlocks. I absolutely love creating content that can be enjoyed by others and Minecraft is the perfect environment for my skills and creativity.
 
-[Click here](https://cerus.dev/cv/) if you'd like to see my CV.
+<br>
 
-As you may have noticed I'm madly in love with cats. My profile picture shows my beautiful cat Edina (\*2008-†2020). Cats are my favourite animal and I couldn't live without one. I currently have one cat, a ~15 year old Maine Coon named Giovanni.
+### My projects
 
----
+**Minecraft related**
+- [minecraft-place](https://github.com/cerus/minecraft-place): r/place in Minecraft with live updates ([YouTube](https://www.youtube.com/watch?v=vwLOoHHjgkg))
+- [maps](https://github.com/cerus/maps): A Spigot library for drawing stuff on Minecraft maps
+- [mchr](https://github.com/cerus/mchr): A Minecraft skin rendering service
+- [flatcraft](https://github.com/cerus/flatcraft): A Spigot plugin that allows you to play a Minecraft clone in your chat ([YouTube](https://www.youtube.com/watch?v=pwk8rcLN4j8))
+- ...and many others
 
-### My expertise
-I started learning Java in 2017 and I would say that I have gathered a bunch of experience with Java and programming in general. I'm always using the buildtool Maven for my Java projects. I have also played around with C#, although I don't have nearly as much experience with it as with Java. I would be able to write simple programs in it though. Besides Java and C# I have also tried out Haxe, C++, Rust, JavaScript and Go.\
-I have about 2-3 years of experience with SQL and around 1 year of experience with MongoDB, Redis and Docker.\
-I know how to use Git, but I'm not a Git wizard.
+**Other**
+- [sharedmem](https://github.com/cerus/sharedmem): Shared memory / memory mapped files for Java (Linux + Windows)
+- [dwordle](https://github.com/cerus/dwordle): Wordle game Discord bot
+- [logic-builder](https://github.com/cerus/logic-builder): Logic gate simulator using Java and Swing
+- [jda-slash-commands](https://github.com/cerus/jda-slash-commands): (Archived) A JDA library to interface with Discords slash commands
+- ...and many others
 
-I also have a lot of experience with Minecraft servers. I have been programming Spigot plugins since 2017 and I know how to use NMS and packets to my advantage. I like pushing the game to its limits with serverside mods. I have a [YouTube channel](https://www.youtube.com/c/Cerusss/videos) where I sometimes post videos of my creations.
+### Contact
 
----
+Shoot me a message on Discord: [Cerus#5149](https://discord.com/users/347018538713874444)
 
-### Favourite software
-I have recently discovered my love for Linux - I'm currently running Arch with KDE Plasma (The Dolphin file manager is really awesome). I switched from Windows to Linux and never looked back. I also really like Jetbrains IDEs. Some say they are bloated, but I quite like the wide array of tools they provide.
-
----
-
-### Favourite games
-My all time favourite is Minecraft, but I also enjoy trucking and realistic space games, so Euro Truck Simulator 2 and Elite: Dangerous definitely come right after Minecraft. Sometimes I also like to play Scrap Mechanic, CS:GO and GTAV.
-
----
-
-### How to contact me
-You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.dorn.2003@web.de) to my email address `m.dorn.2003@web.de`.
-
----
-
-### Favourite quotes
-
-> Programming is an art form that fights back.\
-> \- Unknown
-
-> I saw 'cout' being shifted "Hello world" times to the left and stopped right there.\
-> \- Steve Goned
+For more serious enquiries you can send an email to `m.dorn.2003@web.de`.
 
 ---
 
@@ -56,6 +42,3 @@ You can contact me on Discord (Cerus#5149) or you can [send an email](mailto:m.d
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cerus&show_icons=true&include_all_commits=true&count_private=true&theme=nord" />
   </a>
 </p>
-
-<!-- Had to set weird query params because of GitHub Camo -->
-<img src="https://track.cerus.dev/track/github?123=abc" alt="Hit counter"/>
