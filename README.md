@@ -20,6 +20,7 @@ I currently work for the german Minecraft server HorstBlocks. I absolutely love 
 - ...and many others
 
 **Other**
+- [edina](https://github.com/cerus/edina): A simple stack-oriented compiled programming language
 - [sharedmem](https://github.com/cerus/sharedmem): Shared memory / memory mapped files for Java (Linux + Windows)
 - [dwordle](https://github.com/cerus/dwordle): Wordle game Discord bot
 - [logic-builder](https://github.com/cerus/logic-builder): Logic gate simulator using Java and Swing
