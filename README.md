@@ -31,7 +31,7 @@ I currently work for the german Minecraft server HorstBlocks. I absolutely love 
 
 Shoot me a message on Discord: [Cerus#5149](https://discord.com/users/347018538713874444)
 
-For more serious enquiries you can send an email to `m.dorn.2003@web.de`.
+For more serious enquiries you can send an email to `business@cerus.dev`.
 
 ---
 
