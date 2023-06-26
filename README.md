@@ -25,13 +25,14 @@ I currently work for the german Minecraft server HorstBlocks. I absolutely love 
 - [edina](https://github.com/cerus/edina): A simple stack-oriented compiled programming language
 - [sharedmem](https://github.com/cerus/sharedmem): Shared memory / memory mapped files for Java (Linux + Windows)
 - [dwordle](https://github.com/cerus/dwordle): Wordle game Discord bot
-- [logic-builder](https://github.com/cerus/logic-builder): Logic gate simulator using Java and Swing
-- [jda-slash-commands](https://github.com/cerus/jda-slash-commands): (Archived) A JDA library to interface with Discords slash commands
+- [hourlycatbot](https://github.com/cerus/hourlycatbot): Mastodon bot that posts cat pictures
+- [faktor](https://github.com/cerus/faktor): Tiny & lightweight one-time password (HOTP/TOTP) generation & validation library
+- [observatorycore-linux](https://github.com/cerus/observatorycore-linux): Linux builds for [ObservatoryCore](https://github.com/Xjph/ObservatoryCore)
 - ...and many others
 
 ### Contact
 
-Shoot me a message on Discord: [cerus.dev](https://discord.com/users/347018538713874444) (originally Cerus#5149)
+Shoot me a message on Discord: [cervs](https://discord.com/users/347018538713874444) (originally Cerus#5149)
 
 For more serious enquiries you can send an email to [hi@dorn.pm](mailto:hi@dorn.pm).
 
