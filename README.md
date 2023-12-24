@@ -8,7 +8,7 @@
 
 My name is Maximilian and I'm a software developer from Germany. I mainly work with Java in combination with Minecraft.
 
-I currently work for the german Minecraft server HorstBlocks. I absolutely love creating content that can be enjoyed by others and Minecraft is the perfect environment for my skills and creativity.
+I currently work as a freelancer.
 
 <br>
 
