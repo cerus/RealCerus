@@ -4,7 +4,6 @@
 [![Max's Holopin board](https://holopin.io/api/user/board?user=max)](https://holopin.io/@max)
 
 ## Hello there!
-<img align="right" src="https://github.com/cerus/cerus/blob/master/flying%20edina.gif?raw=true" width="302" height="190" />
 
 My name is Maximilian and I'm a software developer from Germany. I mainly work with Java in combination with Minecraft.
 
@@ -32,9 +31,7 @@ I currently work as a freelancer.
 
 ### Contact
 
-Shoot me a message on Discord: [cervs](https://discord.com/users/347018538713874444) (originally Cerus#5149)
-
-For more serious enquiries you can send an email to [hi@dorn.pm](mailto:hi@dorn.pm).
+You can send an email to [hi@dorn.pm](mailto:hi@dorn.pm).
 
 ---
 
